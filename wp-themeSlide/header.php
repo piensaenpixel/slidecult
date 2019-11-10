@@ -22,7 +22,7 @@
 
 
 <body <?php body_class(); ?>>
-
+    vamos niño
 	<div id="wrap">
 
             <header id="header">
